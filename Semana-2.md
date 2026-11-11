@@ -14,6 +14,7 @@ Un circuito digital y una expresión algebraica son exactamente lo mismo: cada c
 ---
 ## 📌 **2. Postulados y Teoremas del Álgebra de Boole**
 El álgebra de Boole opera con el conjunto {0, 1} mediante las operaciones suma (+), producto y negación. No es necesario memorizar las tablas; se consultan y aplican según la necesidad.
+
 <img width="528" height="155" alt="image" src="https://github.com/user-attachments/assets/c278a151-be07-4f4b-a3c5-41804fc959e4" />
 <img width="525" height="247" alt="image" src="https://github.com/user-attachments/assets/d22ebdd0-7de7-48ea-a4a1-b2fb6dbe46b2" />
 

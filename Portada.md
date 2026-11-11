@@ -11,7 +11,7 @@
 
 <br>
 
-| [**📖 Semana 1**<br>Sistemas Numéricos, Códigos y Compuertas](Semana-1.md) | [**📖 Semana 2**<br>Álgebra de Boole y Formas Canónicas](Semana-02.md) |
+| [**📖 Semana 1**<br>Sistemas Numéricos, Códigos y Compuertas](Semana-1.md) | [**📖 Semana 2**<br>Álgebra de Boole y Formas Canónicas](Semana-2.md) |
 | :---: | :---: |
 | [**📖 Semana 3**<br>Mapas de Karnaugh e Indiferentes](Semana-3.md) | [**📖 Semana 4**<br>Circuitos Aritméticos y ALU](Seman-4.md) |
 

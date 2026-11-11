@@ -55,4 +55,4 @@ Las funciones lógicas básicas (NOT, AND, OR, NAND, NOR, XOR, XNOR) vienen empa
 
 ---
 
-[⬅️ Volver a la Portada (Índice Principal)](README.md)
+[⬅️ Volver a la Portada (Índice Principal)](Portada.md)

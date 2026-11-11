@@ -59,4 +59,4 @@ Supongamos una bodega con puerta (A), ventana (B) y movimiento (C). La alarma de
 
 ---
 
-[⬅️ Volver al Índice Principal](../README.md)
+[⬅️ Volver al Índice Principal](Portada.md)

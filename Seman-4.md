@@ -52,4 +52,4 @@ Es un circuito combinacional que evalúa dos números binarios para determinar s
 
 ---
 
-[⬅️ Volver a la Portada (Índice Principal)](README.md)
+[⬅️ Volver a la Portada (Índice Principal)](Portada.md)

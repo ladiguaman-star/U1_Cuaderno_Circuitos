@@ -18,3 +18,6 @@
 <br>
 
 </div>
+
+## DECLARACIÓN DE LA IA
+En la elaboración de este documento se utilizó la herramienta de inteligencia artificial Gemini (Google) exclusivamente como apoyo para la revisión gramatical, la mejora de la redacción y la estructuración del texto final. Todo el contenido reflexivo, las ideas principales y los argumentos presentados son de autoría propia
